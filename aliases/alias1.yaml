@@ -1,0 +1,7 @@
+---
+name: greet
+pack: alertops
+description: "Greet StackStorm"
+action_ref: "alertops.greet"
+formats:
+  - "Hello 2023. {{greeting}}"
